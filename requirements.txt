@@ -8,3 +8,5 @@ pytesseract>=0.3.10
 python-dotenv>=1.0.1
 aiofiles>=23.2.1
 google-genai>=2.34.0
+PyJWT>=2.8.0
+cryptography>=42.0.0

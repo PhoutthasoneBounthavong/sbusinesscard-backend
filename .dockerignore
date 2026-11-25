@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.env
+business_contact.db-shm
+business_contact.db-wal

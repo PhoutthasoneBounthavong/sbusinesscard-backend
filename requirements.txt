@@ -1,0 +1,10 @@
+fastapi>=0.110.0
+uvicorn>=0.28.0
+pydantic>=2.6.0
+python-multipart>=0.0.9
+pillow>=10.2.0
+qrcode>=7.4.2
+pytesseract>=0.3.10
+python-dotenv>=1.0.1
+aiofiles>=23.2.1
+google-genai>=2.34.0

@@ -1,0 +1,23 @@
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+*.db
+!business_contact.db
+*.sqlite3
+
+# Uploads
+uploads/cards/*
+uploads/avatars/*
+uploads/qr/*
+!uploads/cards/.gitkeep
+!uploads/avatars/.gitkeep
+!uploads/qr/.gitkeep
+tests/sample_card.png
